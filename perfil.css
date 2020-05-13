@@ -8,13 +8,11 @@
 .contenedor {
     width: 100%;
     height: 600px;
-    background: blue;
 }
 
 .caja_1 {
     width: 30%;
     height: 600px;
-    background: rgb(236, 176, 65);
     float: left;
 }
 
@@ -32,27 +30,53 @@
     float: right;
 }
 
-.foto_1 {
+.nombre-foto {
     width: 100%;
-    height: 250px;
-    background: rgb(236, 66, 81);
+    height: 300px;
 }
 
-.foto_2 {
+.nombre {
     width: 100%;
-    height: 350px;
-    background: rgb(136, 207, 118);
-    overflow: auto;
+    height: 40px;
 }
 
 .picture_1 {
     width: 50%;
-    height: 230px;
+    height: 130px;
     float: left;
 }
 
 .picture_2 {
     width: 50%;
-    height: 240px;
+    height: 130px;
     float: right;
+}
+
+.campo-apuntes {
+    width: 100%;
+    height: 300px;
+    background: rgb(199, 198, 192);
+}
+
+.apuntes {
+    width: 100%;
+    height: 50px;
+}
+
+.buscador {
+    width: 100%;
+    height: 55px;
+    background: wheat;
+}
+
+.menu {
+    width: 100%;
+    height: 345px;
+    background: black;
+}
+
+.notas {
+    width: 100%;
+    height: 200px;
+    background: rgb(179, 245, 214);
 }
